@@ -1,3 +1,4 @@
+package Week1Tasks;
 import java.util.Scanner;
 public class MagicCalender{
     public static void main(String[] args) {

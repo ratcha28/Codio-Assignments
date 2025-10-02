@@ -1,3 +1,4 @@
+package Week1Tasks;
 import java.util.Scanner;
 public class BiggestTreasure{
     public static void main(String[] args) {

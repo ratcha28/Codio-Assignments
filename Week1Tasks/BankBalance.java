@@ -1,3 +1,4 @@
+package Week1Tasks;
 import java.util.Scanner;
 public class BankBalance{
     public static void main(String[] args) {

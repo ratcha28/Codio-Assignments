@@ -1,3 +1,4 @@
+package Week1Tasks;
 public class LightBulbTest {
     public static void main(String[] args) {
         int[] numbers={4,7,0};

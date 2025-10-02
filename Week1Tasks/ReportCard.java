@@ -1,3 +1,4 @@
+package Week1Tasks;
 import java.util.Scanner;
 public class ReportCard{
     public static void main(String[] args) {
@@ -15,6 +16,6 @@ public class ReportCard{
         else{
             System.out.println("Fail");
         }
-        sc.close;
+        sc.close();
     }
 }
