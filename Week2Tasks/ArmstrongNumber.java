@@ -1,3 +1,4 @@
+package Week2Tasks;
 public class ArmstrongNumber {
     public static void main(String[] args) {
         int n=153;

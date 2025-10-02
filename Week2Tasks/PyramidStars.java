@@ -1,4 +1,5 @@
-public class PyramidOfStars{
+package Week2Tasks;
+public class PyramidStars{
     public static void main(String[] args){
         int n=5;
         int star=1;

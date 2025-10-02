@@ -1,3 +1,4 @@
+package Week2Tasks;
 public class CountOccurrence{
     public static void main(String[] args) {
         int []arr={2,4,2,6,2,9,6};

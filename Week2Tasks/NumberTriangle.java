@@ -1,3 +1,4 @@
+package Week2Tasks;
 public class NumberTriangle {
     public static void main(String[] args) {
         int n=5;
